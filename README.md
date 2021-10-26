@@ -1,7 +1,7 @@
 ## _HEYY_
 👋 Hi there. 
-I'm Software Engineer using serveral language.
-Currently, I use Python and C++. 
+
+I'm Software Engineer using serveral language. Currently, I use Python and C++. 
 
 ✨ !!BUT!! I can also use JAVA and C.
 
