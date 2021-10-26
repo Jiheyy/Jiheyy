@@ -8,7 +8,6 @@ I'm Software Engineer using serveral language. Currently, I use Python and C++.
 🌱 I’m currently learning Java, Spring Boot, Algorithm.
  
 # Tech Stack
-
 ## Language
 ![Python](https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
@@ -33,6 +32,9 @@ I'm Software Engineer using serveral language. Currently, I use Python and C++.
 ### 💻  GitHub Analytics
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiheyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJiheyy&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+ 
+ 
 
