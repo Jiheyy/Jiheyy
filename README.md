@@ -1,9 +1,10 @@
 ## _HEYY_
 👋 Hi there. 
 I'm Software Engineer using serveral language.
-
 Currently, I use Python and C++. 
+
 ✨ !!BUT!! I can also use JAVA and C.
+
 🌱 I’m currently learning Java, Spring Boot, Algorithm.
  
 # Tech Stack
