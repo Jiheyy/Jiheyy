@@ -24,10 +24,5 @@ I'm Software Engineer using serveral languages. Mostly, using Python or C++.
 ![selenium](https://img.shields.io/badge/selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/GoogleAds-4285F48?style=flat-square&logo=GoogleAds&logoColor=white"/>  <img src="https://img.shields.io/badge/TorBrowser-7D4698?style=flat-square&logo=TorBrowser&logoColor=white"/> <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=SAP&logoColor=white"/> 
 
 <hr/>
-
-### 💻  GitHub Analytics
-
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiheyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- 
  
 
