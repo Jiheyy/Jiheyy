@@ -28,8 +28,6 @@ I'm Software Engineer using serveral languages. Mostly, using Python or C++.
 ### 💻  GitHub Analytics
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiheyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheyy&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ss62615)](https://solved.ac/profile/ss62615)
  
  
 
