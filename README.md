@@ -13,7 +13,7 @@ I'm Software Engineer using serveral languages. Mostly, using Python or C++.
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=Cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/java-007396?style=flat-square&logo=Java&logoColor=white)
 ## Framework
-![flask](https://img.shields.io/badge/flask-000000C?style=flat-square&logo=flask&logoColor=white)![nginx](https://img.shields.io/badge/nginx-009639C?style=flat-square&logo=nginx&logoColor=white)![spring](https://img.shields.io/badge/spring-43B02A?style=flat-square&logo=spring&logoColor=white)<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+![flask](https://img.shields.io/badge/flask-000000C?style=flat-square&logo=flask&logoColor=white)![spring](https://img.shields.io/badge/spring-43B02A?style=flat-square&logo=spring&logoColor=white)![django](https://img.shields.io/badge/django-43B02A?style=flat-square&logo=django&logoColor=white)
 ## DB Tools
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> ![pandas](https://img.shields.io/badge/pandas-50458C?style=flat-square&logo=pandas&logoColor=white)
 ## Cowork Tools
