@@ -3,7 +3,7 @@
 I'm Software Engineer using serveral languages. Mostly, using Python or C++. 
 
 ### What I am studying these days
-✨ Spring, Django, JS and Algorithm.
+✨ Spring, Django, ML and Algorithm.
  <hr/>
  
 # Tech Stack
